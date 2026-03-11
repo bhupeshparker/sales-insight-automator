@@ -19,8 +19,6 @@ google-auth==2.49.0
 google-auth-httplib2==0.3.0
 google-genai==1.66.0
 googleapis-common-protos==1.73.0
-grpcio==1.78.0
-grpcio-status>=1.75.1
 h11==0.16.0
 httpcore==1.0.9
 httplib2==0.31.2
@@ -57,4 +55,5 @@ uritemplate==4.2.0
 urllib3==2.6.3
 uvicorn==0.41.0
 websockets==16.0
+
 
