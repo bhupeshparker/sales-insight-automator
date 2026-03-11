@@ -12,3 +12,6 @@ def send_email(to_email, summary):
         "subject": "Sales Insight Summary",
         "html": f"<pre>{summary}</pre>"
     })
+
+def send_email(email, summary):
+    print(f"Email would be sent to {email}")
