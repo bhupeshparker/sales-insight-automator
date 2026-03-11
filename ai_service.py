@@ -43,3 +43,8 @@ Chart generated successfully.
 """
 
     return summary
+
+
+
+def generate_summary(df):
+    return "Demo summary generated from uploaded CSV"
